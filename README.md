@@ -1,0 +1,3 @@
+# Projeto Grupo 1
+### Projeto em desenvolvimento de sistemas, sob orientação do Prof. Thiago G. Traue.
+O SkevySounds busca oferecer uma experiência abrangente no gerenciamento de músicas e playlists, simplificando a Gestão de Conteúdo e facilitando a Migração de Dados entre dispositivos. A iniciativa surge da falta de opções acessíveis para esse fim, visando preencher essa lacuna no mercado. Além de consolidar a marca SkevySounds, o projeto proporciona aos alunos da Uninove a oportunidade de desenvolver habilidades em programação. O impacto econômico está na capacidade de atrair usuários e gerar receita por meio de assinaturas premium, publicidade e vendas de músicas, abrindo portas para crescimento e sustentabilidade financeira.
